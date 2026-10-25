@@ -2,6 +2,8 @@
 
 An offline Android workout tracker for intermediate lifters.
 
+> **Detailed specification: [SPEC.md](SPEC.md) · Design: [DESIGN.md](DESIGN.md).** This file is the original project pitch. Where it differs from SPEC.md, SPEC.md wins.
+
 ## What problem am I solving?
 
 Serious lifters can't log RPE/RIR, unilateral sets, unlimited custom exercises and per-gym PRs in one free tracker. Popular apps like Hevy put these features behind a paywall or don't have them at all.
